@@ -1,1 +1,1 @@
-consle.log("hello git");
+consle.log("hello git and Github");
