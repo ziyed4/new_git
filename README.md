@@ -1,3 +1,3 @@
 # Learning Git & Github
 
-## From amigoscode.com
+From https://amigoscode.com
