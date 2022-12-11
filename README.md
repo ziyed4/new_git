@@ -1,3 +1,3 @@
-# new_git
+# Learning Git & Github
 
-This repo was used to learn git from Amigoscode
+## From amigoscode.com
